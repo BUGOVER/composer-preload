@@ -1,9 +1,9 @@
 {
-  "name": "ayesh/composer-preload",
+  "name": "bugover/composer-preload",
   "description": "Preload your sweet sweet code to opcache with a composer command, making your code faster to run",
   "type": "composer-plugin",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     {
       "name": "Ayesh Karunaratne",
